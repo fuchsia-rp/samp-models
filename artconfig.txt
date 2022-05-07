@@ -1,1 +1,28 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
+
+AddSimpleModel(-1,19379, -20001, "maps/metroswat/metro_hq.dff", "maps/metroswat/metro_hq.txd");
+AddSimpleModel(-1,19379, -20002, "maps/metroswat/highrise.dff", "maps/metroswat/highrise.txd");
+AddSimpleModel(-1,19379, -20003, "maps/metroswat/mall.dff", "maps/metroswat/mall.txd");
+AddSimpleModel(-1,19379, -20004, "maps/metroswat/metro_veg.dff", "maps/metroswat/metro_veg.txd");
+AddSimpleModel(-1,19379, -20005, "maps/metroswat/metro_garage.dff", "maps/metroswat/metro_garage.txd");
+AddSimpleModel(-1,19379, -20006, "maps/metroswat/timed_metro.dff", "maps/metroswat/timed_metro.txd");
+AddSimpleModel(-1,19379, -20007, "maps/metroswat/timed_highrise.dff", "maps/metroswat/timed_highrise.txd");
+AddSimpleModel(-1,19379, -20008, "maps/metroswat/swatkapi1.dff", "maps/metroswat/swatkapi1.txd");
+AddSimpleModel(-1,19379, -20009, "maps/metroswat/swatkapi2.dff", "maps/metroswat/swatkapi2.txd");
+AddSimpleModel(-1,19379, -20010, "maps/metroswat/swatkapi3.dff", "maps/metroswat/swatkapi3.txd");
+AddSimpleModel(-1,19379, -20011, "maps/metroswat/swatkapi4.dff", "maps/metroswat/swatkapi4.txd");
+AddSimpleModel (-1,19480, -20020, "maps/metroswat-int/metroduvar.dff", "maps/metroswat-int/metroint.txd");
+AddSimpleModel (-1,19480, -20021, "maps/metroswat-int/metroex.dff", "maps/metroswat-int/metroint.txd");
+AddSimpleModel (-1,19480, -20022, "maps/metroswat-int/sandalyeler.dff", "maps/metroswat-int/metroint.txd");
+AddSimpleModel (-1,19480, -20023, "maps/metroswat-int/metroint.dff", "maps/metroswat-int/swatint.txd");
+AddSimpleModel (-1,19480, -20024, "maps/metroswat-int/swatint.dff", "maps/metroswat-int/swatint.txd");
+AddSimpleModel (-1,19480, -20025, "maps/metroswat-int/metrooda1.dff", "maps/metroswat-int/metroint.txd");
+AddSimpleModel (-1,19480, -20019, "maps/metroswat-int/metrocam1.dff", "maps/metroswat-int/metrocamlar.txd");
+
+AddSimpleModel (-1,1491, -20026, "maps/metroswat-int/swat_door1.dff", "maps/metroswat-int/swat_door1.txd");
+AddSimpleModel (-1,1491, -20027, "maps/metroswat-int/swat_glasswdoor.dff", "maps/metroswat-int/swat_glasswdoor.txd");
+AddSimpleModel (-1,1491, -20028, "maps/metroswat-int/swat_gymdoor1.dff", "maps/metroswat-int/swat_gymdoor1.txd");
+AddSimpleModel (-1,1491, -20029, "maps/metroswat-int/swat_gymdoor2.dff", "maps/metroswat-int/swat_gymdoor2.txd");
+AddSimpleModel (-1,1491, -20034, "maps/metroswat-int/swat_door2.dff", "maps/metroswat-int/swat_door2.txd");
+AddSimpleModel (-1,19480, -20035, "maps/metroswat-int/swat_anakapi.dff", "maps/metroswat-int/swat_anakapi.txd");
+
