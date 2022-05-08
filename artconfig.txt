@@ -1,5 +1,7 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
 
+
+// metroswat
 AddSimpleModel(-1,19379, -20001, "maps/metroswat/metro_hq.dff", "maps/metroswat/metro_hq.txd");
 AddSimpleModel(-1,19379, -20002, "maps/metroswat/highrise.dff", "maps/metroswat/highrise.txd");
 AddSimpleModel(-1,19379, -20003, "maps/metroswat/mall.dff", "maps/metroswat/mall.txd");
@@ -26,6 +28,8 @@ AddSimpleModel (-1,1491, -20029, "maps/metroswat-int/swat_gymdoor2.dff", "maps/m
 AddSimpleModel (-1,1491, -20034, "maps/metroswat-int/swat_door2.dff", "maps/metroswat-int/swat_door2.txd");
 AddSimpleModel (-1,19480, -20035, "maps/metroswat-int/swat_anakapi.dff", "maps/metroswat-int/swat_anakapi.txd");
 
+
+// sols
 AddSimpleModel(-1, 19379, -20079, "maps/sols/1040.dff", "maps/sols/1040.txd");
 AddSimpleModel(-1, 19379, -20080, "maps/sols/1041.dff", "maps/sols/1041.txd");
 AddSimpleModel(-1, 19379, -20081, "maps/sols/1042.dff", "maps/sols/1042.txd");
@@ -43,4 +47,10 @@ AddSimpleModel(-1, 19379, -20091, "maps/sols/1053.dff", "maps/sols/1053.txd");
 AddSimpleModel(-1, 19379, -20129, "maps/sols/1223.dff", "maps/sols/1223.txd");
 AddSimpleModel(-1, 19379, -20130, "maps/sols/1224.dff", "maps/sols/1224.txd");
 AddSimpleModel(-1, 19379, -20131, "maps/sols/1225.dff", "maps/sols/1225.txd");
+
+// East Los Santos Mexicano
+AddSimpleModel(-1,19379, -20073, "maps/eastls_mexicano/-1071.dff", "maps/eastls_mexicano/-1071.txd");
+AddSimpleModel(-1,19379, -20074, "maps/eastls_mexicano/-1072.dff", "maps/eastls_mexicano/-1072.txd");
+AddSimpleModel(-1,19379, -20075, "maps/eastls_mexicano/-1073.dff", "maps/eastls_mexicano/-1073.txd");
+AddSimpleModel(-1,19379, -20076, "maps/eastls_mexicano/-1074.dff", "maps/eastls_mexicano/-1074.txd");
 
