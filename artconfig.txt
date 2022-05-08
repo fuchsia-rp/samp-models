@@ -54,3 +54,11 @@ AddSimpleModel(-1,19379, -20074, "maps/eastls_mexicano/-1072.dff", "maps/eastls_
 AddSimpleModel(-1,19379, -20075, "maps/eastls_mexicano/-1073.dff", "maps/eastls_mexicano/-1073.txd");
 AddSimpleModel(-1,19379, -20076, "maps/eastls_mexicano/-1074.dff", "maps/eastls_mexicano/-1074.txd");
 
+// East LS Motel
+
+AddSimpleModel(-1, 19379, -20172, "maps/eastls_motel/-1132.dff", "maps/eastls_motel/-1132.txd");
+AddSimpleModel(-1, 19379, -20173, "maps/eastls_motel/-1133.dff", "maps/eastls_motel/-1133.txd");
+AddSimpleModel(-1, 19379, -20174, "maps/eastls_motel/-1134.dff", "maps/eastls_motel/-1134.txd");
+AddSimpleModel(-1, 19379, -20175, "maps/eastls_motel/-1135.dff", "maps/eastls_motel/-1135.txd");
+AddSimpleModel(-1, 19379, -20176, "maps/eastls_motel/-1136.dff", "maps/eastls_motel/-1136.txd");
+
