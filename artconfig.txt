@@ -43,6 +43,7 @@ AddSimpleModel(-1, 19379, -20088, "maps/sols/1050.dff", "maps/sols/1050.txd");
 AddSimpleModel(-1, 19379, -20089, "maps/sols/1051.dff", "maps/sols/1051.txd");
 AddSimpleModel(-1, 19379, -20090, "maps/sols/1052.dff", "maps/sols/1052.txd");
 AddSimpleModel(-1, 19379, -20091, "maps/sols/1053.dff", "maps/sols/1053.txd");
+AddSimpleModel(-1, 19379, -20145, "maps/sols/1047.dff", "maps/sols/1047.txd");
 
 AddSimpleModel(-1, 19379, -20129, "maps/sols/1223.dff", "maps/sols/1223.txd");
 AddSimpleModel(-1, 19379, -20130, "maps/sols/1224.dff", "maps/sols/1224.txd");
