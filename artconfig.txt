@@ -1,5 +1,5 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
-AddSimpleModel(-1, 1923, -999, "maps/other/impound.dff", "maps/other/impound.txd");
+AddSimpleModel(-1, 1923, -2002, "maps/other/impound.dff", "maps/other/impound.txd");
 
 
 // metroswat
