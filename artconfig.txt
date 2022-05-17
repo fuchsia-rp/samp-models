@@ -1,4 +1,5 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
+AddSimpleModel(-1, 1923, -999, "maps/other/impound.dff", "maps/other/impound.txd");
 
 
 // metroswat
@@ -40,9 +41,9 @@ AddSimpleModel(-1, 19379, -20085, "maps/sols/1046.dff", "maps/sols/1046.txd");
 AddSimpleModel(-1, 19379, -20086, "maps/sols/1048.dff", "maps/sols/1048.txd");
 AddSimpleModel(-1, 19379, -20087, "maps/sols/1049.dff", "maps/sols/1049.txd");
 AddSimpleModel(-1, 19379, -20088, "maps/sols/1050.dff", "maps/sols/1050.txd");
-AddSimpleModel(-1, 19379, -20089, "maps/sols/1051.dff", "maps/sols/1051.txd");
-AddSimpleModel(-1, 19379, -20090, "maps/sols/1052.dff", "maps/sols/1052.txd");
-AddSimpleModel(-1, 19379, -20091, "maps/sols/1053.dff", "maps/sols/1053.txd");
+AddSimpleModel(-1, 1923, -20089, "maps/sols/1051.dff", "maps/sols/1051.txd");
+AddSimpleModel(-1, 1923, -20090, "maps/sols/1052.dff", "maps/sols/1052.txd");
+AddSimpleModel(-1, 8674, -20091, "maps/sols/1053.dff", "maps/sols/1053.txd");
 AddSimpleModel(-1, 19379, -20145, "maps/sols/1047.dff", "maps/sols/1047.txd");
 
 AddSimpleModel(-1, 19379, -20129, "maps/sols/1223.dff", "maps/sols/1223.txd");
@@ -57,18 +58,18 @@ AddSimpleModel(-1,19379, -20076, "maps/eastls_mexicano/-1074.dff", "maps/eastls_
 
 // East LS Motel
 
-AddSimpleModel(-1, 19379, -20172, "maps/eastls_motel/-1132.dff", "maps/eastls_motel/-1132.txd");
-AddSimpleModel(-1, 19379, -20173, "maps/eastls_motel/-1133.dff", "maps/eastls_motel/-1133.txd");
-AddSimpleModel(-1, 19379, -20174, "maps/eastls_motel/-1134.dff", "maps/eastls_motel/-1134.txd");
-AddSimpleModel(-1, 19379, -20175, "maps/eastls_motel/-1135.dff", "maps/eastls_motel/-1135.txd");
-AddSimpleModel(-1, 19379, -20176, "maps/eastls_motel/-1136.dff", "maps/eastls_motel/-1136.txd");
+AddSimpleModel(-1, 1923, -20172, "maps/eastls_motel/-1132.dff", "maps/eastls_motel/-1132.txd");
+AddSimpleModel(-1, 8674, -20173, "maps/eastls_motel/-1133.dff", "maps/eastls_motel/-1133.txd");
+AddSimpleModel(-1, 1923, -20174, "maps/eastls_motel/-1134.dff", "maps/eastls_motel/-1134.txd");
+AddSimpleModel(-1, 1923, -20175, "maps/eastls_motel/-1135.dff", "maps/eastls_motel/-1135.txd");
+AddSimpleModel(-1, 1923, -20176, "maps/eastls_motel/-1136.dff", "maps/eastls_motel/-1136.txd");
 
 // LS Seb
 
-AddSimpleModel(-1,19480, -20054, "maps/ls_seb/a.dff", "maps/ls_seb/a.txd");
-AddSimpleModel(-1,19480, -20055, "maps/ls_seb/b.dff", "maps/ls_seb/b.txd");
-AddSimpleModel(-1,19480, -20056, "maps/ls_seb/b1.dff", "maps/ls_seb/b.txd");
-AddSimpleModel(-1,19480, -20057, "maps/ls_seb/c.dff", "maps/ls_seb/c.txd");
-AddSimpleModel(-1,19480, -20058, "maps/ls_seb/kapi_a.dff", "maps/ls_seb/kapi.txd");
-AddSimpleModel(-1,19480, -20059, "maps/ls_seb/kapi_b.dff", "maps/ls_seb/kapi.txd");
+AddSimpleModel(-1,1923, -20054, "maps/ls_seb/a.dff", "maps/ls_seb/a.txd");
+AddSimpleModel(-1,1923, -20055, "maps/ls_seb/b.dff", "maps/ls_seb/b.txd");
+AddSimpleModel(-1,1923, -20056, "maps/ls_seb/b1.dff", "maps/ls_seb/b.txd");
+AddSimpleModel(-1,1923, -20057, "maps/ls_seb/c.dff", "maps/ls_seb/c.txd");
+AddSimpleModel(-1,1923, -20058, "maps/ls_seb/kapi_a.dff", "maps/ls_seb/kapi.txd");
+AddSimpleModel(-1,1923, -20059, "maps/ls_seb/kapi_b.dff", "maps/ls_seb/kapi.txd");
 
