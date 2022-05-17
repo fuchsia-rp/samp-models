@@ -1,6 +1,53 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
 AddSimpleModel(-1, 1923, -2002, "maps/other/impound.dff", "maps/other/impound.txd");
 
+// City Hall
+
+AddSimpleModel(-1, 19379, -5300, "maps/city_hall/-5300.dff", "maps/city_hall/-5300.txd");
+AddSimpleModel(-1, 19379, -5301, "maps/city_hall/-5301.dff", "maps/city_hall/-5301.txd");
+AddSimpleModel(-1, 19379, -5302, "maps/city_hall/-5302.dff", "maps/city_hall/-5302.txd");
+AddSimpleModel(-1, 19379, -5303, "maps/city_hall/-5303.dff", "maps/city_hall/-5303.txd");
+AddSimpleModel(-1, 19379, -5304, "maps/city_hall/-5304.dff", "maps/city_hall/-5304.txd");
+AddSimpleModel(-1, 19379, -5305, "maps/city_hall/-5305.dff", "maps/city_hall/-5305.txd");
+AddSimpleModel(-1, 19379, -5306, "maps/city_hall/-5306.dff", "maps/city_hall/-5306.txd");
+AddSimpleModel(-1, 19379, -5307, "maps/city_hall/-5307.dff", "maps/city_hall/-5307.txd");
+AddSimpleModel(-1, 19379, -5308, "maps/city_hall/-5308.dff", "maps/city_hall/-5308.txd");
+AddSimpleModel(-1, 19379, -5309, "maps/city_hall/-5309.dff", "maps/city_hall/-5309.txd");
+AddSimpleModel(-1, 19379, -5310, "maps/city_hall/-5310.dff", "maps/city_hall/-5310.txd");
+AddSimpleModel(-1, 19379, -5311, "maps/city_hall/-5311.dff", "maps/city_hall/-5311.txd");
+AddSimpleModel(-1, 19379, -5312, "maps/city_hall/-5312.dff", "maps/city_hall/-5312.txd");
+AddSimpleModel(-1, 19379, -5313, "maps/city_hall/-5313.dff", "maps/city_hall/-5313.txd");
+AddSimpleModel(-1, 19325, -5315, "maps/city_hall/-5315.dff", "maps/city_hall/-5315.txd");
+AddSimpleModel(-1, 19325, -5316, "maps/city_hall/-5316.dff", "maps/city_hall/-5316.txd");
+AddSimpleModel(-1, 19325, -5317, "maps/city_hall/-5317.dff", "maps/city_hall/-5317.txd");
+AddSimpleModel(-1, 1491, -5318, "maps/city_hall/-5318.dff", "maps/city_hall/-5318.txd");
+AddSimpleModel(-1, 19379, -5319, "maps/city_hall/-5319.dff", "maps/city_hall/-5319.txd");
+AddSimpleModel(-1, 19379, -5320, "maps/city_hall/-5320.dff", "maps/city_hall/-5320.txd");
+AddSimpleModel(-1, 19379, -5322, "maps/city_hall/-5322.dff", "maps/city_hall/-5322.txd");
+AddSimpleModel(-1, 19379, -5324, "maps/city_hall/-5324.dff", "maps/city_hall/-5324.txd");
+AddSimpleModel(-1, 19379, -5325, "maps/city_hall/-5325.dff", "maps/city_hall/-5325.txd");
+AddSimpleModel(-1, 19379, -5326, "maps/city_hall/-5326.dff", "maps/city_hall/-5326.txd");
+AddSimpleModel(-1, 19379, -5328, "maps/city_hall/-5328.dff", "maps/city_hall/-5328.txd");
+AddSimpleModel(-1, 19379, -5329, "maps/city_hall/-5329.dff", "maps/city_hall/-5329.txd");
+AddSimpleModel(-1, 19379, -5330, "maps/city_hall/-5330.dff", "maps/city_hall/-5330.txd");
+AddSimpleModel(-1, 19379, -5331, "maps/city_hall/-5331.dff", "maps/city_hall/-5331.txd");
+AddSimpleModel(-1, 19379, -5332, "maps/city_hall/-5332.dff", "maps/city_hall/-5332.txd");
+AddSimpleModel(-1, 19379, -5333, "maps/city_hall/-5333.dff", "maps/city_hall/-5333.txd");
+AddSimpleModel(-1, 19379, -5334, "maps/city_hall/-5334.dff", "maps/city_hall/-5334.txd");
+AddSimpleModel(-1, 1523, -5337, "maps/city_hall/-5337.dff", "maps/city_hall/-5337.txd");
+AddSimpleModel(-1, 1523, -5338, "maps/city_hall/-5338.dff", "maps/city_hall/-5338.txd");
+AddSimpleModel(-1, 1523, -5339, "maps/city_hall/-5339.dff", "maps/city_hall/-5339.txd");
+AddSimpleModel(-1, 1523, -5341, "maps/city_hall/-5341.dff", "maps/city_hall/-5341.txd");
+AddSimpleModel(-1, 1523, -5342, "maps/city_hall/-5342.dff", "maps/city_hall/-5342.txd");
+AddSimpleModel(-1, 19379, -5343, "maps/city_hall/-5343.dff", "maps/city_hall/-5343.txd");
+AddSimpleModel(-1, 19379, -5345, "maps/city_hall/-5345.dff", "maps/city_hall/-5345.txd");
+AddSimpleModel(-1, 19379, -5346, "maps/city_hall/-5346.dff", "maps/city_hall/-5346.txd");
+AddSimpleModel(-1, 1495, -5348, "maps/city_hall/-5348.dff", "maps/city_hall/-5348.txd");
+AddSimpleModel(-1, 1495, -5347, "maps/city_hall/-5347.dff", "maps/city_hall/-5347.txd");
+AddSimpleModel(-1, 19379, -5350, "maps/city_hall/-5350.dff", "maps/city_hall/-5350.txd");
+AddSimpleModel(-1, 1491, -5351, "maps/city_hall/-5351.dff", "maps/city_hall/-5351.txd");
+AddSimpleModel(-1, 19379, -5352, "maps/city_hall/-5352.dff", "maps/city_hall/-5352.txd");
+
 
 // metroswat
 AddSimpleModel(-1,19379, -20001, "maps/metroswat/metro_hq.dff", "maps/metroswat/metro_hq.txd");
