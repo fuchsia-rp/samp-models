@@ -1,5 +1,6 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
 AddSimpleModel(-1, 1923, -2002, "maps/other/impound.dff", "maps/other/impound.txd");
+AddSimpleModel(-1, 1923, -2003, "maps/other/d_bureau.dff", "maps/other/d_bureau.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
 // City Hall
