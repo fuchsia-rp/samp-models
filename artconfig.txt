@@ -377,3 +377,38 @@ AddCharModel(140, 27112, "skins/civillian/cf1.dff", "skins/civillian/cf1.txd");
 AddCharModel(140, 27113, "skins/civillian/erdogan.dff", "skins/civillian/erdogan.txd");
 AddCharModel(140, 27114, "skins/private/carthadaninciler.dff", "skins/private/carthadaninciler.txd");
 
+
+// LSPD Object
+AddSimpleModel(-1,19825, -31000, "objects/lspd/asu_cap.dff", "objects/lspd/asu_cap.txd");
+AddSimpleModel(-1,19825, -31001, "objects/lspd/commandtruck.dff", "objects/lspd/commandtruck.txd");
+AddSimpleModel(-1,19825, -31002, "objects/lspd/police_bag.dff", "objects/lspd/police_bag.txd");
+AddSimpleModel(-1,19825, -31003, "objects/lspd/police_cap.dff", "objects/lspd/police_cap.txd");
+AddSimpleModel(-1,19825, -31004, "objects/lspd/polshield.dff", "objects/lspd/polshield.txd");
+AddSimpleModel(-1,19825, -31005, "objects/lspd/swat_armor.dff", "objects/lspd/swat_armor.txd");
+AddSimpleModel(-1,19825, -31006, "objects/lspd/swat_helmet.dff", "objects/lspd/swat_helmet.txd");
+AddSimpleModel(-1,19975, -31007, "objects/lspd/slowdown_sign.dff", "objects/lspd/slowdown_sign.txd");
+AddSimpleModel(-1,19975, -31008, "objects/lspd/roadclosed_sign.dff", "objects/lspd/slowdown_sign.txd");
+AddSimpleModel(-1,19975, -31009, "objects/lspd/barrier.dff", "objects/lspd/barrier.txd");
+AddSimpleModel(-1,19975, -31010, "objects/lspd/uzun_civi.dff", "objects/lspd/civi.txd");
+AddSimpleModel(-1,19975, -31011, "objects/lspd/kisa_civi.dff", "objects/lspd/civi.txd");
+AddSimpleModel(-1,19975, -31012, "objects/lspd/stop_sign.dff", "objects/lspd/stop_sign.txd");
+AddSimpleModel(-1,19975, -31013, "objects/lspd/no-cars-beyond.dff", "objects/lspd/no-cars-beyond.txd");
+
+// LSPD Object
+AddSimpleModel(-1,19825, -31100, "objects/lssd/sd_commandtruck.dff", "objects/lssd/sd_commandtruck.txd");
+
+// LSFD Object
+AddSimpleModel(-1,19825, -31200, "objects/lsfd/elektrikli_testere.dff", "objects/lsfd/elektrikli_testere.txd");
+AddSimpleModel(-1,19825, -31201, "objects/lsfd/kapali_tabut.dff", "objects/lsfd/kapali_tabut.txd");
+AddSimpleModel(-1,19825, -31202, "objects/lsfd/tabut.dff", "objects/lsfd/tabut.txd");
+AddSimpleModel(-1,19825, -31203, "objects/lsfd/oksijentupu.dff", "objects/lsfd/oksijentupu.txd");
+AddSimpleModel(-1,19825, -31204, "objects/lsfd/komuta_yelegi.dff", "objects/lsfd/komuta_yelegi.txd");
+AddSimpleModel(-1,19825, -31205, "objects/lsfd/aidbag.dff", "objects/lsfd/aidbag.txd");
+AddSimpleModel(-1,19825, -31206, "objects/lsfd/ffcerhat.dff", "objects/lsfd/ffcerhat.txd");
+AddSimpleModel(-1,19825, -31207, "objects/lsfd/ofcerhat.dff", "objects/lsfd/ofcerhat.txd");
+AddSimpleModel(-1,19825, -31208, "objects/lsfd/radiostrap.dff", "objects/lsfd/radiostrap.txd");
+AddSimpleModel(-1,19825, -31209, "objects/lsfd/sapka.dff", "objects/lsfd/sapka.txd");
+
+// Civillian Object
+AddSimpleModel(-1, 19379, -20000, "objects/other/gasmask.dff", "objects/other/gasmask.txd");
+
