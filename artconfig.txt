@@ -397,18 +397,18 @@ AddSimpleModel(-1,19975, -31014, "objects/lspd/police-armor.dff", "objects/lspd/
 AddSimpleModel(-1,19975, -31015, "objects/lspd/badge.dff", "objects/lspd/badge.txd");
 
 AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/asstchief/obje.dff", "objects/lspd/apoletler/asstchief/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/chief/obje.dff", "objects/lspd/apoletler/chief/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/comm/obje.dff", "objects/lspd/apoletler/comm/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/cpt/obje.dff", "objects/lspd/apoletler/cpt/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/depchief/obje.dff", "objects/lspd/apoletler/depchief/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/det1/obje.dff", "objects/lspd/apoletler/det1/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/det2/obje.dff", "objects/lspd/apoletler/det2/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/det3/obje.dff", "objects/lspd/apoletler/det3/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/lt/obje.dff", "objects/lspd/apoletler/lt/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/po3/obje.dff", "objects/lspd/apoletler/po3/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/po31/obje.dff", "objects/lspd/apoletler/po31/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/sgt1/obje.dff", "objects/lspd/apoletler/sgt1/obje.txd");
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/sgt2/obje.dff", "objects/lspd/apoletler/sgt2/obje.txd");
+AddSimpleModel(-1,19975, -31017, "objects/lspd/apoletler/chief/obje.dff", "objects/lspd/apoletler/chief/obje.txd");
+AddSimpleModel(-1,19975, -31018, "objects/lspd/apoletler/comm/obje.dff", "objects/lspd/apoletler/comm/obje.txd");
+AddSimpleModel(-1,19975, -31019, "objects/lspd/apoletler/cpt/obje.dff", "objects/lspd/apoletler/cpt/obje.txd");
+AddSimpleModel(-1,19975, -31020, "objects/lspd/apoletler/depchief/obje.dff", "objects/lspd/apoletler/depchief/obje.txd");
+AddSimpleModel(-1,19975, -31021, "objects/lspd/apoletler/det1/obje.dff", "objects/lspd/apoletler/det1/obje.txd");
+AddSimpleModel(-1,19975, -31022, "objects/lspd/apoletler/det2/obje.dff", "objects/lspd/apoletler/det2/obje.txd");
+AddSimpleModel(-1,19975, -31023, "objects/lspd/apoletler/det3/obje.dff", "objects/lspd/apoletler/det3/obje.txd");
+AddSimpleModel(-1,19975, -31024, "objects/lspd/apoletler/lt/obje.dff", "objects/lspd/apoletler/lt/obje.txd");
+AddSimpleModel(-1,19975, -31025, "objects/lspd/apoletler/po3/obje.dff", "objects/lspd/apoletler/po3/obje.txd");
+AddSimpleModel(-1,19975, -31026, "objects/lspd/apoletler/po31/obje.dff", "objects/lspd/apoletler/po31/obje.txd");
+AddSimpleModel(-1,19975, -31027, "objects/lspd/apoletler/sgt1/obje.dff", "objects/lspd/apoletler/sgt1/obje.txd");
+AddSimpleModel(-1,19975, -31028, "objects/lspd/apoletler/sgt2/obje.dff", "objects/lspd/apoletler/sgt2/obje.txd");
 
 // LSSD Object
 AddSimpleModel(-1,19825, -31100, "objects/lssd/sd_commandtruck.dff", "objects/lssd/sd_commandtruck.txd");
