@@ -393,6 +393,7 @@ AddSimpleModel(-1,19975, -31010, "objects/lspd/uzun_civi.dff", "objects/lspd/civ
 AddSimpleModel(-1,19975, -31011, "objects/lspd/kisa_civi.dff", "objects/lspd/civi.txd");
 AddSimpleModel(-1,19975, -31012, "objects/lspd/stop_sign.dff", "objects/lspd/stop_sign.txd");
 AddSimpleModel(-1,19975, -31013, "objects/lspd/no-cars-beyond.dff", "objects/lspd/no-cars-beyond.txd");
+AddSimpleModel(-1,19975, -31014, "objects/lspd/police-armor.dff", "objects/lspd/police-armor.txd");
 
 // LSPD Object
 AddSimpleModel(-1,19825, -31100, "objects/lssd/sd_commandtruck.dff", "objects/lssd/sd_commandtruck.txd");
