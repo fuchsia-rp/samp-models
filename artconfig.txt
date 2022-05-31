@@ -412,8 +412,9 @@ AddSimpleModel(-1,19975, -31023, "objects/lspd/apoletler/det3/obje.dff", "object
 AddSimpleModel(-1,19975, -31024, "objects/lspd/apoletler/lt/obje.dff", "objects/lspd/apoletler/lt/obje.txd");
 AddSimpleModel(-1,19975, -31025, "objects/lspd/apoletler/po3/obje.dff", "objects/lspd/apoletler/po3/obje.txd");
 AddSimpleModel(-1,19975, -31026, "objects/lspd/apoletler/po31/obje.dff", "objects/lspd/apoletler/po31/obje.txd");
-AddSimpleModel(-1,19975, -31027, "objects/lspd/apoletler/sgt1/obje.dff", "objects/lspd/apoletler/sgt1/obje.txd");
-AddSimpleModel(-1,19975, -31028, "objects/lspd/apoletler/sgt2/obje.dff", "objects/lspd/apoletler/sgt2/obje.txd");
+AddSimpleModel(-1,19975, -31027, "objects/lspd/apoletler/sgt1/erkek/obje.dff", "objects/lspd/apoletler/sgt1/erkek/obje.txd");
+AddSimpleModel(-1,19975, -31028, "objects/lspd/apoletler/sgt1/kadin/obje.dff", "objects/lspd/apoletler/sgt1/kadin/obje.txd");
+AddSimpleModel(-1,19975, -31029, "objects/lspd/apoletler/sgt2/obje.dff", "objects/lspd/apoletler/sgt2/obje.txd");
 
 // LSSD Object
 AddSimpleModel(-1,19825, -31100, "objects/lssd/sd_commandtruck.dff", "objects/lssd/sd_commandtruck.txd");
