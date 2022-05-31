@@ -3,6 +3,11 @@ AddSimpleModel(-1, 1923, -2002, "maps/other/impound.dff", "maps/other/impound.tx
 AddSimpleModel(-1, 1923, -2003, "maps/other/d_bureau.dff", "maps/other/d_bureau.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
+// 	
+AddSimpleModel(-1,1923, -25005, "maps/willowfield/las2stripbar1.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield Street
+AddSimpleModel(-1,1923, -25006, "maps/willowfield/btoroadxtra_las2.dff", "maps/willowfield/lasroads_las2.txd"); // Willowfield
+AddSimpleModel(-1,1923, -25007, "maps/willowfield/indusland2_las2.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield
+
 // City Hall
 
 AddSimpleModel(-1, 19379, -5300, "maps/city_hall/-5300.dff", "maps/city_hall/-5300.txd");
