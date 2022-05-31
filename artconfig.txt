@@ -4,7 +4,7 @@ AddSimpleModel(-1, 1923, -2003, "maps/other/d_bureau.dff", "maps/other/d_bureau.
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
 // 	
-AddSimpleModel(-1,1923, -25008, "maps/willowfield/las2stripbar1.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield Street
+AddSimpleModel(-1,8674, -25008, "maps/willowfield/las2stripbar1.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield Street
 AddSimpleModel(-1,1923, -25006, "maps/willowfield/btoroadxtra_las2.dff", "maps/willowfield/lasroads_las2.txd"); // Willowfield
 AddSimpleModel(-1,1923, -25007, "maps/willowfield/indusland2_las2.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield
 
