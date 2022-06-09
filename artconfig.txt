@@ -5,7 +5,6 @@ AddSimpleModel(-1, 1923, -2004, "maps/other/unity_arias.dff", "maps/other/unity_
 AddSimpleModel(-1, 1923, -2005, "maps/other/EastLSBasket.dff", "maps/other/EastLSBasket.txd");
 AddSimpleModel(-1, 1923, -2006, "maps/other/jefferson_basket.dff", "maps/other/jefferson_basket.txd");
 AddSimpleModel(-1, 1923, -2007, "maps/other/crenshawplaza.dff", "maps/other/crenshawplaza.txd");
-AddSimpleModel(-1, 1923, -2008, "maps/other/jeffersonmotel2.dff", "maps/other/jeffersonmotel2.txd");
 AddSimpleModel(-1, 1923, -2009, "maps/other/willowfieldcikmazbasket.dff", "maps/other/willowfieldcikmazbasket.txd");
 AddSimpleModel(-1, 1923, -2010, "maps/other/idlewoodbarber.dff", "maps/other/idlewoodbarber.txd");
 AddSimpleModel(-1, 1923, -2011, "maps/other/Marketgaraj.dff", "maps/other/Market.txd");
@@ -14,6 +13,8 @@ AddSimpleModel(-1, 1923, -2013, "maps/other/venicebeach.dff", "maps/other/venice
 AddSimpleModel(-1, 1923, -2014, "maps/other/venicebeach2.dff", "maps/other/venicebeach2.txd");
 AddSimpleModel(-1, 1923, -2015, "maps/other/idlewoodbasket.dff", "maps/other/idlewoodbasket.txd");
 AddSimpleModel(-1, 1923, -2016, "maps/other/idlewoodbasket2.dff", "maps/other/idlewoodbasket.txd");
+AddSimpleModel(-1, 1923, -2020, "maps/other/kilise.dff", "maps/other/kilise.txd");
+AddSimpleModel(-1, 1923, -2021, "maps/other/ramona.dff", "maps/other/ramona.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
 // El Corona Basketball
