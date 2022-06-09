@@ -1,16 +1,29 @@
 AddSimpleModel(-1, 19379, -2001, "atm.dff", "atm.txd");
 AddSimpleModel(-1, 1923, -2002, "maps/other/impound.dff", "maps/other/impound.txd");
 AddSimpleModel(-1, 1923, -2003, "maps/other/d_bureau.dff", "maps/other/d_bureau.txd");
-AddSimpleModel(-1, 1923, -2004, "maps/other/sm_spark.dff", "maps/other/sm_spark.txd");
+AddSimpleModel(-1, 1923, -2004, "maps/other/unity_arias.dff", "maps/other/unity_arias.txd");
+AddSimpleModel(-1, 1923, -2005, "maps/other/EastLSBasket.dff", "maps/other/EastLSBasket.txd");
+AddSimpleModel(-1, 1923, -2006, "maps/other/jefferson_basket.dff", "maps/other/jefferson_basket.txd");
+AddSimpleModel(-1, 1923, -2007, "maps/other/crenshawplaza.dff", "maps/other/crenshawplaza.txd");
+AddSimpleModel(-1, 1923, -2008, "maps/other/jeffersonmotel2.dff", "maps/other/jeffersonmotel2.txd");
+AddSimpleModel(-1, 1923, -2009, "maps/other/willowfieldcikmazbasket.dff", "maps/other/willowfieldcikmazbasket.txd");
+AddSimpleModel(-1, 1923, -2010, "maps/other/idlewoodbarber.dff", "maps/other/idlewoodbarber.txd");
+AddSimpleModel(-1, 1923, -2011, "maps/other/Marketgaraj.dff", "maps/other/Market.txd");
+AddSimpleModel(-1, 1923, -2012, "maps/other/marketpark.dff", "maps/other/Market.txd");
+AddSimpleModel(-1, 1923, -2013, "maps/other/venicebeach.dff", "maps/other/venicebeach.txd");
+AddSimpleModel(-1, 1923, -2014, "maps/other/venicebeach2.dff", "maps/other/venicebeach2.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
-// 	
-AddSimpleModel(-1,8674, -25008, "maps/willowfield/las2stripbar1.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield Street
-AddSimpleModel(-1,1923, -25006, "maps/willowfield/btoroadxtra_las2.dff", "maps/willowfield/lasroads_las2.txd"); // Willowfield
-AddSimpleModel(-1,1923, -25007, "maps/willowfield/indusland2_las2.dff", "maps/willowfield/ground2_las2.txd"); // Willowfield
+// El Corona Basketball
+AddSimpleModel(-1,5111, -25009, "maps/other/ecorona_basket.dff", "maps/other/ecorona_basket.txd");
+
+// FBI Building
+AddSimpleModel(-1,5415, -25004, "maps/other/fbi-buildingsign.dff", "maps/other/fbi-buildingsign.txd");
+
+// Verdant Bluffs Basket
+AddSimpleModel(-1,5111, -25008, "maps/other/vbluffs_basket.dff", "maps/other/vbluffs_basket.txd");
 
 // City Hall
-
 AddSimpleModel(-1, 19379, -5300, "maps/city_hall/-5300.dff", "maps/city_hall/-5300.txd");
 AddSimpleModel(-1, 19379, -5301, "maps/city_hall/-5301.dff", "maps/city_hall/-5301.txd");
 AddSimpleModel(-1, 19379, -5302, "maps/city_hall/-5302.dff", "maps/city_hall/-5302.txd");
@@ -382,56 +395,4 @@ AddCharModel(285, 27111, "skins/civillian/johnwick.dff", "skins/civillian/johnwi
 AddCharModel(140, 27112, "skins/civillian/cf1.dff", "skins/civillian/cf1.txd");
 AddCharModel(140, 27113, "skins/civillian/erdogan.dff", "skins/civillian/erdogan.txd");
 AddCharModel(140, 27114, "skins/private/carthadaninciler.dff", "skins/private/carthadaninciler.txd");
-
-
-// LSPD Object
-AddSimpleModel(-1,19825, -31000, "objects/lspd/asu_cap.dff", "objects/lspd/asu_cap.txd");
-AddSimpleModel(-1,19825, -31001, "objects/lspd/commandtruck.dff", "objects/lspd/commandtruck.txd");
-AddSimpleModel(-1,19825, -31002, "objects/lspd/police_bag.dff", "objects/lspd/police_bag.txd");
-AddSimpleModel(-1,19825, -31003, "objects/lspd/police_cap.dff", "objects/lspd/police_cap.txd");
-AddSimpleModel(-1,19825, -31004, "objects/lspd/polshield.dff", "objects/lspd/polshield.txd");
-AddSimpleModel(-1,19825, -31005, "objects/lspd/swat_armor.dff", "objects/lspd/swat_armor.txd");
-AddSimpleModel(-1,19825, -31006, "objects/lspd/swat_helmet.dff", "objects/lspd/swat_helmet.txd");
-AddSimpleModel(-1,19975, -31007, "objects/lspd/slowdown_sign.dff", "objects/lspd/slowdown_sign.txd");
-AddSimpleModel(-1,19975, -31008, "objects/lspd/roadclosed_sign.dff", "objects/lspd/slowdown_sign.txd");
-AddSimpleModel(-1,19975, -31009, "objects/lspd/barrier.dff", "objects/lspd/barrier.txd");
-AddSimpleModel(-1,19975, -31010, "objects/lspd/uzun_civi.dff", "objects/lspd/civi.txd");
-AddSimpleModel(-1,19975, -31011, "objects/lspd/kisa_civi.dff", "objects/lspd/civi.txd");
-AddSimpleModel(-1,19975, -31012, "objects/lspd/stop_sign.dff", "objects/lspd/stop_sign.txd");
-AddSimpleModel(-1,19975, -31013, "objects/lspd/no-cars-beyond.dff", "objects/lspd/no-cars-beyond.txd");
-AddSimpleModel(-1,19975, -31014, "objects/lspd/police-armor.dff", "objects/lspd/police-armor.txd");
-AddSimpleModel(-1,19975, -31015, "objects/lspd/badge.dff", "objects/lspd/badge.txd");
-
-AddSimpleModel(-1,19975, -31016, "objects/lspd/apoletler/asstchief/obje.dff", "objects/lspd/apoletler/asstchief/obje.txd");
-AddSimpleModel(-1,19975, -31017, "objects/lspd/apoletler/chief/obje.dff", "objects/lspd/apoletler/chief/obje.txd");
-AddSimpleModel(-1,19975, -31018, "objects/lspd/apoletler/comm/obje.dff", "objects/lspd/apoletler/comm/obje.txd");
-AddSimpleModel(-1,19975, -31019, "objects/lspd/apoletler/cpt/obje.dff", "objects/lspd/apoletler/cpt/obje.txd");
-AddSimpleModel(-1,19975, -31020, "objects/lspd/apoletler/depchief/obje.dff", "objects/lspd/apoletler/depchief/obje.txd");
-AddSimpleModel(-1,19975, -31021, "objects/lspd/apoletler/det1/obje.dff", "objects/lspd/apoletler/det1/obje.txd");
-AddSimpleModel(-1,19975, -31022, "objects/lspd/apoletler/det2/obje.dff", "objects/lspd/apoletler/det2/obje.txd");
-AddSimpleModel(-1,19975, -31023, "objects/lspd/apoletler/det3/obje.dff", "objects/lspd/apoletler/det3/obje.txd");
-AddSimpleModel(-1,19975, -31024, "objects/lspd/apoletler/lt/obje.dff", "objects/lspd/apoletler/lt/obje.txd");
-AddSimpleModel(-1,19975, -31025, "objects/lspd/apoletler/po3/obje.dff", "objects/lspd/apoletler/po3/obje.txd");
-AddSimpleModel(-1,19975, -31026, "objects/lspd/apoletler/po31/obje.dff", "objects/lspd/apoletler/po31/obje.txd");
-AddSimpleModel(-1,19975, -31027, "objects/lspd/apoletler/sgt1/erkek/obje.dff", "objects/lspd/apoletler/sgt1/erkek/obje.txd");
-AddSimpleModel(-1,19975, -31028, "objects/lspd/apoletler/sgt1/kadin/obje.dff", "objects/lspd/apoletler/sgt1/kadin/obje.txd");
-AddSimpleModel(-1,19975, -31029, "objects/lspd/apoletler/sgt2/obje.dff", "objects/lspd/apoletler/sgt2/obje.txd");
-
-// LSSD Object
-AddSimpleModel(-1,19825, -31100, "objects/lssd/sd_commandtruck.dff", "objects/lssd/sd_commandtruck.txd");
-
-// LSFD Object
-AddSimpleModel(-1,19825, -31200, "objects/lsfd/elektrikli_testere.dff", "objects/lsfd/elektrikli_testere.txd");
-AddSimpleModel(-1,19825, -31201, "objects/lsfd/kapali_tabut.dff", "objects/lsfd/kapali_tabut.txd");
-AddSimpleModel(-1,19825, -31202, "objects/lsfd/tabut.dff", "objects/lsfd/tabut.txd");
-AddSimpleModel(-1,19825, -31203, "objects/lsfd/oksijentupu.dff", "objects/lsfd/oksijentupu.txd");
-AddSimpleModel(-1,19825, -31204, "objects/lsfd/komuta_yelegi.dff", "objects/lsfd/komuta_yelegi.txd");
-AddSimpleModel(-1,19825, -31205, "objects/lsfd/aidbag.dff", "objects/lsfd/aidbag.txd");
-AddSimpleModel(-1,19825, -31206, "objects/lsfd/ffcerhat.dff", "objects/lsfd/ffcerhat.txd");
-AddSimpleModel(-1,19825, -31207, "objects/lsfd/ofcerhat.dff", "objects/lsfd/ofcerhat.txd");
-AddSimpleModel(-1,19825, -31208, "objects/lsfd/radiostrap.dff", "objects/lsfd/radiostrap.txd");
-AddSimpleModel(-1,19825, -31209, "objects/lsfd/sapka.dff", "objects/lsfd/sapka.txd");
-
-// Civillian Object
-AddSimpleModel(-1, 19379, -20000, "objects/other/gasmask.dff", "objects/other/gasmask.txd");
 
