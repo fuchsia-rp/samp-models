@@ -12,6 +12,8 @@ AddSimpleModel(-1, 1923, -2011, "maps/other/Marketgaraj.dff", "maps/other/Market
 AddSimpleModel(-1, 1923, -2012, "maps/other/marketpark.dff", "maps/other/Market.txd");
 AddSimpleModel(-1, 1923, -2013, "maps/other/venicebeach.dff", "maps/other/venicebeach.txd");
 AddSimpleModel(-1, 1923, -2014, "maps/other/venicebeach2.dff", "maps/other/venicebeach2.txd");
+AddSimpleModel(-1, 1923, -2015, "maps/other/idlewoodbasket.dff", "maps/other/idlewoodbasket.txd");
+AddSimpleModel(-1, 1923, -2016, "maps/other/idlewoodbasket2.dff", "maps/other/idlewoodbasket.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
 // El Corona Basketball
