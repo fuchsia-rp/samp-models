@@ -13,7 +13,6 @@ AddSimpleModel(-1, 1923, -2013, "maps/other/venicebeach.dff", "maps/other/venice
 AddSimpleModel(-1, 1923, -2014, "maps/other/venicebeach2.dff", "maps/other/venicebeach2.txd");
 AddSimpleModel(-1, 1923, -2015, "maps/other/idlewoodbasket.dff", "maps/other/idlewoodbasket.txd");
 AddSimpleModel(-1, 1923, -2016, "maps/other/idlewoodbasket2.dff", "maps/other/idlewoodbasket.txd");
-AddSimpleModel(-1, 1923, -2020, "maps/other/kilise.dff", "maps/other/kilise.txd");
 AddSimpleModel(-1, 1923, -2021, "maps/other/ramona.dff", "maps/other/ramona.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
