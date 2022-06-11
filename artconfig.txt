@@ -18,6 +18,18 @@ AddSimpleModel(-1, 1923, -2021, "maps/other/ramona.dff", "maps/other/ramona.txd"
 AddSimpleModel(-1, 1923, -2022, "maps/other/blockground.dff", "maps/other/blockground.txd");
 AddSimpleModel(-1, 1923, -2023, "maps/other/o39blockbina1.dff", "maps/other/039blockblockbina.txd");
 AddSimpleModel(-1, 1923, -2024, "maps/other/o39blockbina2.dff", "maps/other/039blockblockbina.txd");
+AddSimpleModel(-1, 4569, -2025, "compmedhos2_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2026, "compmedhos1_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2027, "compmedhos3_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2028, "maps/idlewood/laealpha1.dff", "maps/idlewood/laealpha.txd");
+AddSimpleModel(-1, 4569, -2029, "maps/idlewood/laelasruff201.dff", "maps/idlewood/glenpark1x_lae.txd");
+AddSimpleModel(-1, 4569, -2030, "maps/idlewood/laeroad13.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2031, "maps/idlewood/laeroad39.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2032, "maps/idlewood/laeroad40.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2033, "maps/idlewood/laeroad41.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2034, "maps/idlewood/laeroad42.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2035, "maps/idlewood/laesmokeshse.dff", "maps/idlewood/laesmokecnthus.txd");
+AddSimpleModel(-1, 4569, -2036, "maps/idlewood/compmedhos5_lae.dff", "maps/idlewood/comedhos1_la.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
 // El Corona Basketball
