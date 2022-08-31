@@ -33,6 +33,8 @@ AddSimpleModel (-1, 4569, -2034, "maps/other/laeroad42.dff", "maps/other/laeroad
 AddSimpleModel (-1, 4569, -2035, "maps/other/laesmokeshse.dff", "maps/other/laesmokecnthus.txd");
 AddSimpleModel (-1, 4569, -2036, "maps/other/compmedhos5_lae.dff", "maps/other/comedhos1_la.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
+AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
+313131
 
 // El Corona Basketball
 AddSimpleModel(-1,5111, -25009, "maps/other/ecorona_basket.dff", "maps/other/ecorona_basket.txd");
