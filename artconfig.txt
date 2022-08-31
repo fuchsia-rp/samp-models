@@ -34,6 +34,12 @@ AddSimpleModel (-1, 4569, -2035, "maps/other/laesmokeshse.dff", "maps/other/laes
 AddSimpleModel (-1, 4569, -2036, "maps/other/compmedhos5_lae.dff", "maps/other/comedhos1_la.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
+// Hollenbeck Police Station
+AddSimpleModel(-1, 19379, -20146, "maps/hollenbeckstation/1200.dff", "maps/hollenbeckstation/1200.txd");
+AddSimpleModel(-1, 19379, -20147, "maps/hollenbeckstation/1201.dff", "maps/hollenbeckstation/1201.txd");
+AddSimpleModel(-1, 19379, -20148, "maps/hollenbeckstation/1202.dff", "maps/hollenbeckstation/1202.txd");
+AddSimpleModel(-1, 19379, -20149, "maps/hollenbeckstation/1203.dff", "maps/hollenbeckstation/1203.txd");
+
 // El Corona Basketball
 AddSimpleModel(-1,5111, -25009, "maps/other/ecorona_basket.dff", "maps/other/ecorona_basket.txd");
 
