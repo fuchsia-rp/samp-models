@@ -13,32 +13,49 @@ AddSimpleModel(-1, 1923, -2013, "maps/other/venicebeach.dff", "maps/other/venice
 AddSimpleModel(-1, 1923, -2014, "maps/other/venicebeach2.dff", "maps/other/venicebeach2.txd");
 AddSimpleModel(-1, 1923, -2015, "maps/other/idlewoodbasket.dff", "maps/other/idlewoodbasket.txd");
 AddSimpleModel(-1, 1923, -2016, "maps/other/idlewoodbasket2.dff", "maps/other/idlewoodbasket.txd");
-AddSimpleModel (-1, 4569, -2017, "maps/other/jeffersonmotel3-1.dff", "maps/other/jeffersonmotel3.txd");
-AddSimpleModel (-1, 4569, -2018, "maps/other/jeffersonmotel2.dff", "maps/other/jeffersonmotel2.txd");
-AddSimpleModel (-1, 4569, -2019, "maps/other/jeffersonmotel2-1.dff", "maps/other/jeffersonmotel2.txd");
+AddSimpleModel(-1, 4569, -2020, "maps/other/kilise.dff", "maps/other/kilise.txd");
 AddSimpleModel(-1, 1923, -2021, "maps/other/ramona.dff", "maps/other/ramona.txd");
 AddSimpleModel(-1, 1923, -2022, "maps/other/blockground.dff", "maps/other/blockground.txd");
 AddSimpleModel(-1, 1923, -2023, "maps/other/o39blockbina1.dff", "maps/other/039blockblockbina.txd");
 AddSimpleModel(-1, 1923, -2024, "maps/other/o39blockbina2.dff", "maps/other/039blockblockbina.txd");
-AddSimpleModel (-1, 4569, -2025, "maps/other/compmedhos2_lae.dff", "maps/other/comedhos1_la.txd");
-AddSimpleModel (-1, 4569, -2026, "maps/other/compmedhos1_lae.dff", "maps/other/comedhos1_la.txd");
-AddSimpleModel (-1, 4569, -2027, "maps/other/compmedhos3_lae.dff", "maps/other/comedhos1_la.txd");
-AddSimpleModel (-1, 4569, -2028, "maps/other/laealpha1.dff", "maps/other/laealpha.txd");
-AddSimpleModel (-1, 4569, -2029, "maps/other/laelasruff201.dff", "maps/other/glenpark1x_lae.txd");
-AddSimpleModel (-1, 4569, -2030, "maps/other/laeroad13.dff", "maps/other/laeroads2s.txd");
-AddSimpleModel (-1, 4569, -2031, "maps/other/laeroad39.dff", "maps/other/laeroads2s.txd");
-AddSimpleModel (-1, 4569, -2032, "maps/other/laeroad40.dff", "maps/other/laeroads2s.txd");
-AddSimpleModel (-1, 4569, -2033, "maps/other/laeroad41.dff", "maps/other/laeroads2s.txd");
-AddSimpleModel (-1, 4569, -2034, "maps/other/laeroad42.dff", "maps/other/laeroads2s.txd");
-AddSimpleModel (-1, 4569, -2035, "maps/other/laesmokeshse.dff", "maps/other/laesmokecnthus.txd");
-AddSimpleModel (-1, 4569, -2036, "maps/other/compmedhos5_lae.dff", "maps/other/comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2025, "compmedhos2_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2026, "compmedhos1_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2027, "compmedhos3_lae.dff", "comedhos1_la.txd");
+AddSimpleModel(-1, 4569, -2028, "maps/idlewood/laealpha1.dff", "maps/idlewood/laealpha.txd");
+AddSimpleModel(-1, 4569, -2029, "maps/idlewood/laelasruff201.dff", "maps/idlewood/glenpark1x_lae.txd");
+AddSimpleModel(-1, 4569, -2030, "maps/idlewood/laeroad13.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2031, "maps/idlewood/laeroad39.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2032, "maps/idlewood/laeroad40.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2033, "maps/idlewood/laeroad41.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2034, "maps/idlewood/laeroad42.dff", "maps/idlewood/laeroads2s.txd");
+AddSimpleModel(-1, 4569, -2035, "maps/idlewood/laesmokeshse.dff", "maps/idlewood/laesmokecnthus.txd");
+AddSimpleModel(-1, 4569, -2036, "maps/idlewood/compmedhos5_lae.dff", "maps/idlewood/comedhos1_la.txd");
 AddSimpleModel(-1, 1923, -20013, "maps/other/skatepark.dff", "maps/other/skatepark.txd");
 
-// Hollenbeck Police Station
+// LSFD Skate Park
+AddSimpleModel(-1, 19379, -20157, "maps/skatepark_fd/1076.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20158, "maps/skatepark_fd/1077.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20159, "maps/skatepark_fd/1078.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20160, "maps/skatepark_fd/1079.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20161, "maps/skatepark_fd/1080.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20162, "maps/skatepark_fd/1081.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20163, "maps/skatepark_fd/1083.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20164, "maps/skatepark_fd/1084.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20165, "maps/skatepark_fd/1085.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20166, "maps/skatepark_fd/1087.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20167, "maps/skatepark_fd/1088.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20168, "maps/skatepark_fd/1089.dff", "maps/skatepark_fd/1076.txd");
+AddSimpleModel(-1, 19379, -20169, "maps/skatepark_fd/1090.dff", "maps/skatepark_fd/1076.txd");
+
+
+
+// Hollenbeck Station
 AddSimpleModel(-1, 19379, -20146, "maps/hollenbeckstation/1200.dff", "maps/hollenbeckstation/1200.txd");
 AddSimpleModel(-1, 19379, -20147, "maps/hollenbeckstation/1201.dff", "maps/hollenbeckstation/1201.txd");
 AddSimpleModel(-1, 19379, -20148, "maps/hollenbeckstation/1202.dff", "maps/hollenbeckstation/1202.txd");
 AddSimpleModel(-1, 19379, -20149, "maps/hollenbeckstation/1203.dff", "maps/hollenbeckstation/1203.txd");
+
+
 
 // El Corona Basketball
 AddSimpleModel(-1,5111, -25009, "maps/other/ecorona_basket.dff", "maps/other/ecorona_basket.txd");
